@@ -16,7 +16,9 @@ for healthcare, education, and construction clients at a US-based software compa
 - Healthcare, education, and construction industry applications
 - Real-time scheduling systems and third-party API integrations
 
-## 📍 Based in Kitchener-Waterloo, ON · Open to work in Canada
+## 📫 Let's connect
+Open to full-stack developer roles in Canada (Vue.js · Laravel · Node.js)  
+Reach me at kaurkulpreet27@gmail.com or connect on LinkedIn.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kulpreet--kaur--dev-blue?logo=linkedin)](https://www.linkedin.com/in/kulpreet-kaur-dev)
 [![Email](https://img.shields.io/badge/Email-kaurkulpreet27%40gmail.com-red?logo=gmail)](mailto:kaurkulpreet27@gmail.com)
